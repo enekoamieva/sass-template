@@ -1,8 +1,8 @@
-#SASS template
+# SASS template
 
 A template to start using SASS in your web proyect.
 
-##Installation
+## Installation
 
 Install SASS dependencies. Go to the project folder and in the root folder write:
 
